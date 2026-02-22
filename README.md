@@ -1,7 +1,7 @@
 # Hello World!, I'm SiHyun
 
 Kafka, Spark, Airflow 기반의 데이터 파이프라인을 구축할 수 있습니다.  
-안정적으로 동작하는 데이터 파이프라인을 설계하고 운영하는 데에 관심이 있습니다.
+안정적으로 동작하는 데이터 파이프라인을 설계하고 운영하는 데에 관심이 있습니다.  
 
 
 ## 🛠 Tech Stack
@@ -20,9 +20,9 @@ Kafka, Spark, Airflow 기반의 데이터 파이프라인을 구축할 수 있�
 
 - [Repo Link](https://github.com/sion2098/Trend-Platform.git) 최종 프로젝트 넣기
 
-- [Repo Link](https://github.com/sion2098/Wikimedia_dashboard.git) Wikimedia 실시간 스트리밍 데이터를 활용한 대시보드 구축
+- [Wikimedia_Dashboard](https://github.com/sion2098/Wikimedia_dashboard.git) Wikimedia 실시간 스트리밍 데이터를 활용한 대시보드 구축
 
-- [Repo Link](https://github.com/sion2098/Working_holiday_chatbot.git) 워킹홀리데이 공식 문서를 기반으로 정보를 제공하는 RAG 기반 챗봇 개발
+- [Working_Holiday_Chatbot](https://github.com/sion2098/Working-Holiday-Chatbot.git) 워킹홀리데이 공식 문서를 기반으로 정보를 제공하는 RAG 기반 챗봇 개발
 
 
 ## 📫 Contact & Links
